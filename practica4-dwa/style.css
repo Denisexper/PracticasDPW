@@ -1,0 +1,41 @@
+.body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 500px;
+    background-color: aliceblue;
+    border-radius: 1px;
+    box-shadow: 0 0 10px black;
+    padding: 20px;
+}
+
+h2{
+    font-size: 24px;
+    margin-bottom: 20px;
+
+}
+
+.form-group label{
+    font-weight: 600px;
+};
+s
+.form-group input .form-group select{
+    border-radius: 5px;
+    border: 1px solid cyan;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.btn-primary{
+    background-color: blue;
+    border: none;
+    padding: 10px;
+}
+
+.btn-primary:hover{
+    background-color: antiquewhite;
+}

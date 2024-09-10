@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgb(30, 224, 166);
+    border-radius: 0;
+    border: none;
+
+}
+
+.navbar-brand { 
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-nav .navbar-link {
+    color: white;
+
+}
+
+.navbar-nav .navbar-link:hover {
+    color: wheat;
+}
